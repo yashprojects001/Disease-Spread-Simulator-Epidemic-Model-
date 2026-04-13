@@ -1,0 +1,25 @@
+body {
+  background: #111;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+}
+
+canvas {
+  background: #000;
+  border: 2px solid white;
+  margin-top: 10px;
+}
+
+.controls {
+  margin: 15px;
+}
+
+input, button {
+  margin: 5px;
+  padding: 5px;
+}
+
+.stats p {
+  margin: 5px;
+}
